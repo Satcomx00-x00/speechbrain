@@ -2,3 +2,4 @@
 tensorboard
 # torchvision is needed to save spectrograms
 torchvision
+torch>=2.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
