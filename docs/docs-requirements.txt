@@ -10,3 +10,4 @@ six
 sphinx-rtd-theme>=0.4.3
 Sphinx>=3.4.3
 transformers
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
